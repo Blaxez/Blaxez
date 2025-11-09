@@ -6,8 +6,8 @@
 <!-- Animated Badges with Glow Effect -->
 <p align="center">
   <img src="https://img.shields.io/badge/🌟_PROFILE_VIEWS-DYNAMIC-FF6B6B?style=for-the-badge&labelColor=1a1a2e&color=e94560" />
-  <img src="https://img.shields.io/github/followers/joker-pyc?label=FOLLOWERS&style=for-the-badge&color=0f3460&labelColor=16213e" />
-  <img src="https://img.shields.io/github/stars/joker-pyc?label=STARS&style=for-the-badge&color=e94560&labelColor=0f3460" />
+  <img src="https://img.shields.io/github/followers/blaxezcode?label=FOLLOWERS&style=for-the-badge&color=0f3460&labelColor=16213e" />
+  <img src="https://img.shields.io/github/stars/blaxezcode?label=STARS&style=for-the-badge&color=e94560&labelColor=0f3460" />
   <img src="https://img.shields.io/badge/STATUS-INNOVATING-00d9ff?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
@@ -60,7 +60,7 @@ const santosh = {
 
 ### ⚡ **QUICK ACCESS**
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-EXPLORE-FF6B6B?style=for-the-badge&labelColor=1a1a2e)](https://joker-pyc.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-EXPLORE-FF6B6B?style=for-the-badge&labelColor=1a1a2e)](https://blaxezcode.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0077B5?style=for-the-badge&labelColor=1a1a2e)](https://www.linkedin.com/in/santosh-maurya-700630215/)
 [![Email](https://img.shields.io/badge/📧_EMAIL-REACH_OUT-EA4335?style=for-the-badge&labelColor=1a1a2e)](mailto:santoshmouriya1234567890@gmail.com)
 
@@ -90,21 +90,21 @@ const santosh = {
 
 <!-- Stats Cards with Custom Theme -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joker-pyc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=e94560&text_color=c9d1d9&ring_color=00d9ff&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joker-pyc&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=e94560&currStreakLabel=00d9ff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blaxezcode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=e94560&text_color=c9d1d9&ring_color=00d9ff&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=blaxezcode&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=e94560&currStreakLabel=00d9ff" />
 </p>
 
 <!-- Language Stats with Modern Design -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joker-pyc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joker-pyc&theme=radical&utcOffset=5.5" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaxezcode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blaxezcode&theme=radical&utcOffset=5.5" />
 </p>
 
 <!-- 3D Contribution Graph -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joker-pyc&bg_color=0d1117&color=00d9ff&line=e94560&point=00d9ff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blaxezcode&bg_color=0d1117&color=00d9ff&line=e94560&point=00d9ff&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity" />
 
 </div>
 
@@ -190,7 +190,7 @@ const santosh = {
 - 💎 Advanced shader systems
 - 🎮 VR/AR compatible
 
-[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/joker-pyc)
+[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/blaxezcode)
 
 </td>
 <td width="50%" valign="top">
@@ -210,7 +210,7 @@ const santosh = {
 - 🌐 Multi-language bindings
 - 📚 Production-ready
 
-[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/joker-pyc)
+[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/blaxezcode)
 
 </td>
 </tr>
@@ -233,7 +233,7 @@ const santosh = {
 - 📈 Progress analytics
 - 🌍 500+ active users
 
-[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/joker-pyc)
+[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/blaxezcode)
 
 </td>
 <td width="50%" valign="top">
@@ -254,7 +254,7 @@ const santosh = {
 - 📊 Auto-generated docs
 - 🚀 Deployment ready
 
-[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/joker-pyc)
+[![Explore](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/blaxezcode)
 
 </td>
 </tr>
@@ -270,7 +270,7 @@ const santosh = {
 <div align="center">
 
 <!-- Trophy Showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=joker-pyc&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=blaxezcode&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 <table>
 <tr>
@@ -408,10 +408,10 @@ gantt
 <a href="mailto:santoshmouriya1234567890@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
-<a href="https://joker-pyc.github.io/Portfolio/">
+<a href="https://blaxezcode.github.io/Portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
 </a>
-<a href="https://github.com/joker-pyc">
+<a href="https://github.com/blaxezcode">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
 <a href="https://twitter.com/joker_pyc">
@@ -428,7 +428,7 @@ gantt
 <a href="https://ko-fi.com/joker_pyc">
   <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="40" />
 </a>
-<a href="https://github.com/sponsors/joker-pyc">
+<a href="https://github.com/sponsors/blaxezcode">
   <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="40" />
 </a>
 </p>
@@ -450,9 +450,9 @@ gantt
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joker-pyc/joker-pyc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joker-pyc/joker-pyc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joker-pyc/joker-pyc/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blaxezcode/blaxezcode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blaxezcode/blaxezcode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blaxezcode/blaxezcode/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br><br>
@@ -462,9 +462,9 @@ gantt
 
 <!-- Final Stats -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=joker-pyc&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/joker-pyc?label=Followers&style=for-the-badge&color=e94560&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/github/stars/joker-pyc?label=Total%20Stars&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=blaxezcode&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/blaxezcode?label=Followers&style=for-the-badge&color=e94560&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/stars/blaxezcode?label=Total%20Stars&style=for-the-badge&color=00d9ff&labelColor=1a1a2e" />
 </p>
 
 ### ⭐ **If this README inspired you, consider starring it!** ⭐
